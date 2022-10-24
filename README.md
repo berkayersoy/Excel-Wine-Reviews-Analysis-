@@ -35,7 +35,7 @@ I quickly created a pivot chart price against rating to see if there is a trendl
 
 ![4_added_a_logarithmic_trendline_and_scaled](https://user-images.githubusercontent.com/44724944/197541341-6cae9f6f-a48a-44e5-8dbc-4268bef93db7.png)
 <p align="center">
-To observe the trend a bit easier I added a logarithmic trendline and put the price minimum threshold to 75.
+To observe the trend a bit easier I added a logarithmic trendline.
 </p>
 
 
