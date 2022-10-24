@@ -24,7 +24,7 @@ Then I inserted the pivot table with Variety as rows, average rating and count o
 
 ![2-2-average_points_by_variety](https://user-images.githubusercontent.com/44724944/197541320-f4761975-24be-4c3f-b94e-10dc1db1d4b6.png)
 <p align="center">
-I filtered out the noise and just kept the wines that only had more than 300 reviews for a more accurate result. At this point I could easily see the answer of my third question, Cabernet Sauvignon had average rating of 88.6 and Merlot a bit lower rated at 87.2 compared to the wine that got the best average rating of 90.5.
+I filtered out the noise and just kept the wines that only had more than 300 reviews for a more accurate result. At this point I could easily see the answer of my third question, Cabernet Sauvignon had average rating of 88.6 and Merlot a bit lower rated at 87.2 compared to others in the list.
 </p>
 
 
