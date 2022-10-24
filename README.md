@@ -9,13 +9,14 @@ My initial questions that I wanted to answer from this data set were:
 
 So the dataset was in csv format so I easily loaded into my excel sheet. Since this is going to be an ad-hoc analysis fast pivot table creation and looking for insights, I didn't see the use of formatting the data as a table and dived into the creation of the pivot table and charts.
 
+<p align="center">
 ![1-what_the_data_initally_looked_like](https://user-images.githubusercontent.com/44724944/197541292-3b6456f2-9d14-4a57-b98e-f06420f4467d.png)
-
+</p>
 This is how the data looked, the columns that I was interested in from dimensions was the name of the variety and from measures it was the price and also the rating of the wines.
 
-
+<p align="center">
 ![2-wine_variety_average_ratings_without_threshold_filter](https://user-images.githubusercontent.com/44724944/197541309-9aafc93b-77a5-45f3-89aa-17e1058acd8f.png)
-
+</p>
 Then I inserted the pivot table with Variety as rows, average rating and count of reviews as columns.
 
 
