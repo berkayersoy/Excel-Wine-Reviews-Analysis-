@@ -41,5 +41,5 @@ To observe the trend a bit easier I added a logarithmic trendline.
 
 ![5-grouped_values](https://user-images.githubusercontent.com/44724944/197541372-808c87d0-cd10-4e97-945d-e5d0c7b8a44c.png)
 <p align="center">
-At last I grouped up the values to further analyze the trend. To answer my questions 1 and 2 I asked to myself in the beginning when I was starting this analysis, we can clearly conclude by stating that there is a cerralation between wine price and rating upto a certain price (70-150 usd) but then the trendline becomes flat. 100-150 usd price range seems like the sweet spot for getting yourself a high rated wine for a good price!
+At last I grouped up the values to further analyze the trend. To answer my questions 1 and 2 I asked to myself in the beginning when I was starting this analysis, we can clearly conclude by stating that there is a corralation between wine price and rating upto a certain price (70-150 usd) but then the trendline becomes flat. 100-150 usd price range seems like the sweet spot for getting yourself a high rated wine for a good price!
 </p>
