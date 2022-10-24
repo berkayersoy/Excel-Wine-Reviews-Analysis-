@@ -14,7 +14,6 @@ So the dataset was in csv format so I easily loaded into my excel sheet. Since t
 This is how the data looked, the columns that I was interested in from dimensions was the name of the variety and from measures it was the price and also the rating of the wines.
 
 
-
 ![2-wine_variety_average_ratings_without_threshold_filter](https://user-images.githubusercontent.com/44724944/197541309-9aafc93b-77a5-45f3-89aa-17e1058acd8f.png)
 
 Then I inserted the pivot table with Variety as rows, average rating and count of reviews as columns.
@@ -30,7 +29,6 @@ I filtered out the noise and just kept the wines that only had more than 300 rev
 ![3-wine_price_rating_pivot_chart](https://user-images.githubusercontent.com/44724944/197541333-8b49bf30-8906-49b9-81c9-b3c5d8f226e3.png)
 
 I quickly created a pivot chart price against rating to see if there is a trendline and a sweet spot to buy highly rated wined at a good price. On this chart we can see between roughly 70 to 130 dolars we can get a high rated wine.
-
 
 
 ![4_added_a_logarithmic_trendline_and_scaled](https://user-images.githubusercontent.com/44724944/197541341-6cae9f6f-a48a-44e5-8dbc-4268bef93db7.png)
